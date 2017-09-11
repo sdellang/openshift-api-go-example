@@ -1,0 +1,4 @@
+package: github.com/sdellang/javapodgo
+import:
+- package: k8s.io/client-go
+  version: v2.0.0
